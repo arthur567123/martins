@@ -9,11 +9,11 @@
 Meu objetivo é colocar em prática o que estou aprendendo no curso e ir melhorando meu projeto aos poucos.
 
 <h3>🛠️ Tecnologias</h3>
-C#
-Godot
-GDScript
-Obsidian
-Git e GitHub
+<h2 style="color:blue;">C#</h2>
+<h2 style="color:blue;">Godot</h2>
+<h2 style="color:blue;">GDScript</h2>
+<h2 style="color:blue;">Obsidian</h2>
+e <h2 style="color:blue;">GitHub</h2>
 
 Estou usando essas ferramentas para aprender programação, criar jogos e organizar meu projeto.
 
