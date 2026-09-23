@@ -34,4 +34,4 @@ git push
 
 <h3>🚀 Próximos passos</h3>
 
-Quero aprender mais sobre programação, Godot e GDScript, melhorar meu jogo e continuar praticando Git e GitHub.
+Quero aprender mais sobre programação, para melhorar meu jogo e continuar praticando Git e GitHub.
