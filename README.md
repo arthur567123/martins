@@ -1,13 +1,14 @@
-                                                Ragnaris
+<h3>Ragnaris</h3>
 
 
 
-🎮 Projeto de Programação de Jogos
-🎯 Objetivo
+<h3>🎮 Projeto de Programação de Jogos</h3>
+
+<h3>🎯 Objetivo</h3>
 
 Meu objetivo é colocar em prática o que estou aprendendo no curso e ir melhorando meu projeto aos poucos.
 
-🛠️ Tecnologias
+<h3>🛠️ Tecnologias</h3>
 C#
 Godot
 GDScript
@@ -16,7 +17,7 @@ Git e GitHub
 
 Estou usando essas ferramentas para aprender programação, criar jogos e organizar meu projeto.
 
-▶️ Como executar
+<h3>▶️ Como executar</h3>
 
 Primeiro baixo o projeto e abro no Godot.
 
@@ -30,6 +31,7 @@ git status
 git add .
 git commit -m "Atualização do projeto"
 git push
-🚀 Próximos passos
+
+<h3>🚀 Próximos passos</h3>
 
 Quero aprender mais sobre programação, Godot e GDScript, melhorar meu jogo e continuar praticando Git e GitHub.
